@@ -1,0 +1,65 @@
+<linker>
+	<assembly fullname="Fusion.Realtime">
+		<type fullname="Fusion.Photon.Realtime.AppSettings" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Fusion.Runtime">
+		<type fullname="Fusion.Accuracy" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.AccuracyDefaults" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.HeapConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.InterpolatedErrorCorrectionSettings" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.InterpolationConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.LagCompensationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkEvents/ConnectFailedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkEvents/ConnectRequestEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkEvents/CustomAuthenticationResponse" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkEvents/HostMigrationEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkEvents/InputEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkEvents/InputPlayerEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkEvents/PlayerEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkEvents/ReliableDataEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkEvents/RunnerEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkEvents/SessionListUpdateEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkEvents/ShutdownEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkEvents/SimulationMessageEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkObjectGuid" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkPrefabRef" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkProjectConfig" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.NetworkSimulationConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Fusion.SimulationConfig" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.TextMeshPro">
+		<type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.KerningTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Sprite" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.IMGUIModule">
+		<type fullname="UnityEngine.GUISettings" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.GUIStyle" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.TextCoreFontEngineModule">
+		<type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>

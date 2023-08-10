@@ -1,0 +1,7 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="InputManager">
+			<method name="OnInput"/>
+		</type>
+	</assembly>
+</linker>
