@@ -10,5 +10,5 @@ Hafta 1 - https://www.youtube.com/watch?v=HtwOUyS-wMs
 Hafta 2 - https://www.youtube.com/watch?v=DWFWg2pP2F0  
 Hafta 3 - https://www.youtube.com/watch?v=t2FsFhwlcrg  
 Hafta 4 - https://www.youtube.com/watch?v=Fofrj0lB3Uk  
-Hafta 5 - https://youtu.be/VO_YHl4T920  
-Hafta 6 - https://youtu.be/VO_YHl4T920
+Hafta 5 - https://www.youtube.com/watch?v=qo0jeQY-8vU  
+Hafta 6 - https://www.youtube.com/watch?v=VO_YHl4T920
